@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "PBIE_SSIS", "Integration Services Project2\PBIE_SSIS.dtproj", "{D4DC10FE-14EF-464D-90AC-F4E80BCDB9BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Deploy|Default = Deploy|Default
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4DC10FE-14EF-464D-90AC-F4E80BCDB9BB}.Deploy|Default.ActiveCfg = Deploy
+		{D4DC10FE-14EF-464D-90AC-F4E80BCDB9BB}.Deploy|Default.Build.0 = Deploy
+		{D4DC10FE-14EF-464D-90AC-F4E80BCDB9BB}.Development|Default.ActiveCfg = Development
+		{D4DC10FE-14EF-464D-90AC-F4E80BCDB9BB}.Development|Default.Build.0 = Development
+		{D4DC10FE-14EF-464D-90AC-F4E80BCDB9BB}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
